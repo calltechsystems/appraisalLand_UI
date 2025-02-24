@@ -1,6 +1,4 @@
 /** @type {import('next').NextConfig} */
-
-// import {i18n} from './next1i.config'
 const nextConfig = {
   reactStrictMode: false,
   swcMinify: false,
